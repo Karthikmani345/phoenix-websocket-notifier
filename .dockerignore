@@ -1,0 +1,8 @@
+# Ignore everything
+**
+
+# Except
+!Dockerfile
+!src/
+!package.json
+!yarn.lock
