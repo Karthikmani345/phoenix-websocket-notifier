@@ -1,7 +1,7 @@
 {
   "name": "phoenix-websocket-notifier",
   "version": "1.0.0",
-  "description": "",
+  "description": "A high-performance real-time notification system built with Node.js, Express, Socket.io, and Redis.",
   "main": "index.js",
   "scripts": {
     "lint:fix": "tslint --fix --project tsconfig.json",
